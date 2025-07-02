@@ -1,7 +1,7 @@
 # 📱 **ATESO Android Pre-Releases**
 
 Welcome to the official repository for **ATESO Android Pre-Releases**.  
-Here you will find the latest pre-release versions of our Android app, allowing you to test new features early and provide valuable feedback.
+Here you will find the latest pre-release versions of our Android apps, allowing you to test new features early and provide valuable feedback.
 
 ---
 
